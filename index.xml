@@ -26,14 +26,5 @@ Please feel free to contact us, our customer service center is working for you 2
  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neque.</description>
     </item>
     
-    <item>
-      <title>first-blog</title>
-      <link>https://cruelworld.github.io/blog/1/01/01/first_blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cruelworld.github.io/blog/1/01/01/first_blog/</guid>
-      <description>For test </description>
-    </item>
-    
   </channel>
 </rss>
