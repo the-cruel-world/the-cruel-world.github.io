@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Cruel World</title>
-    <link>https://cruelworld.github.io/categories/</link>
+    <link>https://the-cruel-world.github.io/categories/</link>
     <description>Recent content in Categories on The Cruel World</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cruelworld.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://the-cruel-world.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

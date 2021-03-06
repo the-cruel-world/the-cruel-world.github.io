@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Cruel World</title>
-    <link>https://cruelworld.github.io/</link>
+    <link>https://the-cruel-world.github.io/</link>
     <description>Recent content on The Cruel World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 16:21:06 +0200</lastBuildDate><atom:link href="https://cruelworld.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 16:21:06 +0200</lastBuildDate><atom:link href="https://the-cruel-world.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_post</title>
-      <link>https://cruelworld.github.io/blog/2021/03/06/first_post/</link>
+      <link>https://the-cruel-world.github.io/blog/2021/03/06/first_post/</link>
       <pubDate>Sat, 06 Mar 2021 16:21:06 +0200</pubDate>
       
-      <guid>https://cruelworld.github.io/blog/2021/03/06/first_post/</guid>
+      <guid>https://the-cruel-world.github.io/blog/2021/03/06/first_post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modern Rendering engine</title>
-      <link>https://cruelworld.github.io/blog/2021/03/06/second_post/</link>
+      <link>https://the-cruel-world.github.io/blog/2021/03/06/second_post/</link>
       <pubDate>Sat, 06 Mar 2021 15:34:40 +0200</pubDate>
       
-      <guid>https://cruelworld.github.io/blog/2021/03/06/second_post/</guid>
+      <guid>https://the-cruel-world.github.io/blog/2021/03/06/second_post/</guid>
       <description>Modern Rendering engine Advanced Real-time Render  Advances in Real-Time Rendering in 3D Graphics and Games Creating the Atmospheric World of Red Dead Redemption 2: A Complete and Integrated Solution atmosphere / clouds rendering Summary of articles/conferences on rendering games-cn conferences Real Time Rendering writing an efficient render extremely efficient render using vulkan  9 Core Rendering Engine Techniques Used in 3D Model Design   Shading Shading is the process of producing levels of light, darkness, and color onto objects in a rendered image.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://cruelworld.github.io/contact/</link>
+      <link>https://the-cruel-world.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cruelworld.github.io/contact/</guid>
+      <guid>https://the-cruel-world.github.io/contact/</guid>
       <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
 Please feel free to contact us, our customer service center is working for you 24/7.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://cruelworld.github.io/faq/</link>
+      <link>https://the-cruel-world.github.io/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cruelworld.github.io/faq/</guid>
+      <guid>https://the-cruel-world.github.io/faq/</guid>
       <description>1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neque.</description>
     </item>
